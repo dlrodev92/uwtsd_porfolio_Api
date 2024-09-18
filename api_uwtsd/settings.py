@@ -46,10 +46,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'file',
     'image',
-    'paragraph',
     'project',
-    'reference',
-    'subtitle',
     'tag',
     'technology',
 ]
